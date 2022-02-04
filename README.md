@@ -5,6 +5,15 @@ Product owner at [Transport Systems](https://www.transportsystems.co/)👷‍♂
 
 Currently learning Frontend development at platzi master 🌱 
 
+Technologies:
+
+![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
+)
+![py](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+)
+![py](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+)
+
 follow me at:
 
 [twitter](https://twitter.com/Juli666n)🐦
