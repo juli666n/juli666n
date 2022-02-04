@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 🏴
+![tanjiro](https://i.pinimg.com/originals/67/7b/ae/677bae7a40b03ec5b65c7979c4bb4c80.gif)
+
+Product owner at [Transport Systems](https://www.transportsystems.co/). Currently learning Frontend development 🌱  at platzi master
 
 <!--
 **juli666n/juli666n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
