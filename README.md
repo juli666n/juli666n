@@ -14,12 +14,6 @@ Technologies:
 ![py](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 )
 
-follow me at:
-
-[twitter](https://twitter.com/Juli666n)🐦
-
-[instagram](https://www.instagram.com/juli666n/)📷
-
 <!--
 **juli666n/juli666n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
