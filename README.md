@@ -3,8 +3,6 @@
 
 Product Manager at [Truora](https://www.truora.com/en/)👷‍♂️
 
-Currently learning Frontend development at platzi master 🌱 
-
 Technologies:
 
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
